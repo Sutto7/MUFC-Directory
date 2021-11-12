@@ -21,7 +21,12 @@ h1, h2 {
     color: #1a1a1a;
 }
 
-.logo {
+#logo-image {
+    float: left;
+    max-width: 75px;
+}
+
+#logo-text {
     float: left;
     font-size: 280%;
 }
@@ -34,7 +39,7 @@ h1, h2 {
     float: right;
 }
 
-#menu, .logo {
+#menu, #logo-text {
     line-height: 75px;
 }
 
