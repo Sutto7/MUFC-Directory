@@ -28,14 +28,14 @@ h1, h2 {
     color: #fff;
 }
 
-#logo-image {
+.logo-image {
     float: left;
     max-width: 80px;
     height: auto;
     margin: 10px 20px;
 }
 
-#logo-text {
+.logo-text {
     float: left;
     font-size: 280%;
     text-align: center;
@@ -43,28 +43,28 @@ h1, h2 {
 
 /* Navigation links */
 
-#menu {
+.menu {
     font-size: 110%;
     letter-spacing: 4px;
     float: right;
 }
 
-#menu, #logo-text {
+.menu, .logo-text {
     line-height: 100px;
 }
 
-#menu li {
+.menu li {
     float: left;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: #fff;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid #fff;
 }
 
@@ -74,13 +74,13 @@ h1, h2 {
 
 /* Hero image */
 
-#hero-outer {
+.hero-outer {
     height: 750px;
     width: 100%;
     overflow: hidden;
 }
 
-#hero-image {
+.hero-image {
     height: 750px;
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center;
