@@ -32,7 +32,25 @@ The purpose of the site is to provide users with the latest Manchester United fi
         - As a Frequent User, I want to find information about game results.
         - As a Frequent User, I want to view the most recent club news.
 
+<br>
 
+-   ## **Design**
+
+    - ### **Color Scheme**
+        
+        - The two main colors used are red and white.
+        - The two minor colors used are black and dark grey
+
+    -   ### **Typography**
+
+        -   The Lato font is the main font used for all non-heading content with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly.
+        -   The Roboto Mono font is the main font used for all heading content with Monospace as the fallback font in case for any reason the font isn't being imported into the site correctly.
+
+<br>
+
+- ## **Wireframes**
+
+    
 
 <br>
 <br>
