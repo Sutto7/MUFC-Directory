@@ -10,21 +10,29 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #2b2b2b;
+    background: #f8f8f8;
 }
 
 /* Headings and logo */
+
+header {
+    background: #c70101;
+    height: 100px;
+    width: 100%;
+}
 
 h1, h2 {
     font-family: 'Roboto Mono', monospace;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #1a1a1a;
+    color: #fff;
 }
 
 #logo-image {
     float: left;
-    max-width: 75px;
+    max-width: 80px;
     height: auto;
+    margin: 10px;
 }
 
 #logo-text {
@@ -42,7 +50,7 @@ h1, h2 {
 }
 
 #menu, #logo-text {
-    line-height: 75px;
+    line-height: 100px;
 }
 
 #menu li {
@@ -53,15 +61,15 @@ h1, h2 {
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: #fff;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #2b2b2b;
+    border-bottom: 1px solid #fff;
 }
 
 .active {
-    border-bottom: 1px solid #2b2b2b;
+    border-bottom: 1px solid #fff;
 }
 
 /* Hero image */
