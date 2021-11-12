@@ -50,7 +50,11 @@ The purpose of the site is to provide users with the latest Manchester United fi
 
 - ## **Wireframes**
 
+    ![Wireframes](./assets/wireframes/home-desktop.png)
+
+    <br>
     
+    ![Wireframes](./assets/wireframes/home-mobile.png)
 
 <br>
 <br>
@@ -64,5 +68,7 @@ The purpose of the site is to provide users with the latest Manchester United fi
 ## credits
 
 Fonts https://fonts.google.com/
+<br>
  logo.png https://freebiesupply.com/logos/manchester-united-logo/
+ <br>
  hero-image.png https://commons.wikimedia.org/wiki/File:Sir_Alex_Ferguson_stand,_Old_Trafford.jpg
