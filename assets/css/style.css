@@ -24,11 +24,13 @@ h1, h2 {
 #logo-image {
     float: left;
     max-width: 75px;
+    height: auto;
 }
 
 #logo-text {
     float: left;
     font-size: 280%;
+    text-align: center;
 }
 
 /* Navigation links */
@@ -60,4 +62,33 @@ h1, h2 {
 
 .active {
     border-bottom: 1px solid #2b2b2b;
+}
+
+/* Hero image */
+
+#hero-outer {
+    height: 750px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 750px;
+    width: 100%;
+    background: url(../images/hero-image.jpg) no-repeat center center;
+
+    /* animates hero image */
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+/* Creates level of zoom for hero image */
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
