@@ -21,7 +21,6 @@ The purpose of the site is to provide users with the latest Manchester United fi
 
     - ### **Returning Visitor Goals**
 
-        - As a Returning Visitor, I want to view the sponsers of the club.
         - As a Returning Visitor, I want to find information on the key personnel at the club.
         - As a Returning Visitor, I want to purchase a Manchester United kit.
         - As a Returning Visitor, I want to enter a prize draw to win tickets or a tour of the stadium
@@ -48,18 +47,7 @@ The purpose of the site is to provide users with the latest Manchester United fi
 
 <br>
 
-- ## **Wireframes**
-
-    ![Wireframes](./assets/wireframes/home-desktop.png)
-
-    <br>
-    
-    ![Wireframes](./assets/wireframes/home-mobile.png)
-
-<br>
-<br>
-
-## Features
+# **Features**
 
 <br>
 <br>
